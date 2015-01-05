@@ -1435,4 +1435,8 @@
     <string name="status_bar_date_format_custom">Custom java format</string>
     <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
     <string name="status_bar_date_string_edittext_summary">Enter string</string>
+
+    <!-- Superuser indicator on status bar -->
+    <string name="su_indicator">Superuser indicator</string>
+    <string name="su_indicator_summary">Show superuser indicator on status bar when a root session is active</string>
 </resources>
