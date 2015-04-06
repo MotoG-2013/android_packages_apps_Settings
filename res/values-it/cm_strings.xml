@@ -1215,4 +1215,16 @@
                  <b>Totale commit:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Ultimo aggiornamento:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <string name="quick_settings_reset_message">Reimpostare i tile rapidi?</string>
+  <string name="status_bar_date_title">Data</string>
+  <string name="status_bar_date_none">Nascosta (predefinito)</string>
+  <string name="status_bar_date_small">Piccola</string>
+  <string name="status_bar_date_normal">Normale</string>
+  <string name="status_bar_date_format_title">Formato della data</string>
+  <string name="status_bar_date_style">Stile della data</string>
+  <string name="status_bar_date_style_normal">Normale</string>
+  <string name="status_bar_date_style_lowercase">Minuscolo</string>
+  <string name="status_bar_date_style_uppercase">Maiuscolo</string>
+  <string name="status_bar_date_format_custom">Formato personalizzato</string>
+  <string name="status_bar_date_string_edittext_title">Es: dd/MM/YYYY</string>
+  <string name="status_bar_date_string_edittext_summary">Scrivi il codice</string>
 </resources>
