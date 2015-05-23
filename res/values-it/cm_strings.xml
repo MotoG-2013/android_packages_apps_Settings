@@ -1229,4 +1229,9 @@
   <string name="status_bar_date_string_edittext_summary">Scrivi il codice</string>
   <string name="su_indicator">Indicatore superuser</string>
   <string name="su_indicator_summary">Mostra l\'indicatore superuser sulla status bar quando una sessione root è attiva</string>
+  <string name="kill_app_longpress_timeout_title">Tempo da tenere premuto</string>
+  <string name="timeout_2000">2 secondi (predefinito)</string>
+  <string name="timeout_1500">1,5 secondi</string>
+  <string name="timeout_1000">1 secondo</string>
+  <string name="timeout_500">0,5 secondi</string>
 </resources>

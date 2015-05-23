@@ -1439,4 +1439,11 @@
     <!-- Superuser indicator on status bar -->
     <string name="su_indicator">Superuser indicator</string>
     <string name="su_indicator_summary">Show superuser indicator on status bar when a root session is active</string>
+
+    <!-- long press back to kill configurable timeout -->
+    <string name="kill_app_longpress_timeout_title">Long press timeout</string>
+    <string name="timeout_2000">2 seconds (default)</string>
+    <string name="timeout_1500">1,5 seconds</string>
+    <string name="timeout_1000">1 second</string>
+    <string name="timeout_500">0,5 second</string>
 </resources>
