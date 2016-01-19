@@ -299,6 +299,7 @@ public class StatusBarSettings extends SettingsPreferenceFragment
             }
         }
         mStatusBarDateFormat.setEntries(parsedDateEntries);
+        mStatusBarDateFormat.setSummary(mStatusBarDateFormat.getEntry());
     }
 
     public static final Indexable.SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
