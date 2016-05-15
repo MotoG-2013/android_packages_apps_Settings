@@ -286,7 +286,7 @@ public class StatusBarSettings extends SettingsPreferenceFragment
             mStatusBarDate.setEnabled(true);
             mStatusBarDateStyle.setEnabled(true);
             mStatusBarDateFormat.setEnabled(true);
-            mClockDatePosition.setEnabled(false);
+            mClockDatePosition.setEnabled(true);
         }
     }
 
